@@ -1,5 +1,4 @@
 {
-    "cmake.buildTask": true,
     "cmake.configureArgs": [
         "-DJUCE_BUILD_EXAMPLES=ON"
     ],
