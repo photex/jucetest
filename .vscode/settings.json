@@ -2,4 +2,5 @@
     "cmake.configureArgs": [
         "-DJUCE_BUILD_EXAMPLES=ON"
     ],
+    "clang-tidy.buildPath": "${workspaceFolder}/target/cmake/Release"
 }
